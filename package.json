@@ -33,6 +33,7 @@
     "flatpickr": "^4.6.9",
     "gh-pages": "^3.2.3",
     "lodash.throttle": "^4.1.1",
+    "notiflix": "^3.0.2",
     "simplelightbox": "^2.8.0"
   }
 }
